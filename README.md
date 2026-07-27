@@ -5,8 +5,8 @@ Welcome to the shared research repository for code and project documentation.
 
 ## 📁 Repository Structure
 
-To keep the work organized, please keep your files inside your respective folders:
-example
+To keep the work organized, please keep your files inside your respective folders like the example:
+
 ```text
 ├──A _name/
 │   ├── code/          # Scripts, notebooks, and algorithms
